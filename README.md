@@ -6,7 +6,7 @@ Wersja: v1.0
 Data:   23.11.2020  r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Alicja   Ochenkowska
+Imię i nazwisko studenta:   Alicja Ochenkowska
 Numer albumu:               72542  
 Grupa studencka:            WEL18DE1S1
 
